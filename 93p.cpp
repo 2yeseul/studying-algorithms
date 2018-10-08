@@ -1,4 +1,4 @@
-// ¼öÇà½Ã°£ N^2
+// ìˆ˜í–‰ì‹œê°„ N^2 ì¼ 
  
 int majority1(vector<int>& A) {
     int N = A.size();
